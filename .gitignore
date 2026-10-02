@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# CUDA / compiled files
+*.o
+*.so
+
+# Cache
+.cache/
+
+# Logs
+*.log
+
+# Model weights
+*.bin
+*.safetensors
+
+# IDE
+.idea/
